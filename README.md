@@ -203,3 +203,5 @@ python app.py --voice Samantha    # pick a different Mac voice
 
 MIT
 
+##
+Built from scratch apart from the existing tools required. Training is required for usage, working on exporting my trained variant. Follow steps listed above or from the program to get it working well. Tested at 99.6% accuracy on average.
